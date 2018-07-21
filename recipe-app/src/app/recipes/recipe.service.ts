@@ -21,9 +21,9 @@ export class RecipeService {
             // tslint:disable-next-line:max-line-length
             'https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5d2452cace2ee90c9781c7a39c9a30cf&auto=format&fit=crop&w=1350&q=80',
             [
-                new Ingredient('Salmon', 2),
-                new Ingredient('Creme', 2),
-                new Ingredient('Sauce', 2)
+                new Ingredient('Strawberries', 2),
+                new Ingredient('Creme fraiche', 2),
+                new Ingredient('flour', 2)
             ]
         ),
         new Recipe('Veggies and Fish Pho',
@@ -31,8 +31,8 @@ export class RecipeService {
             // tslint:disable-next-line:max-line-length
             'https://images.unsplash.com/photo-1436327266874-c2e4e1ac7a97?ixlib=rb-0.3.5&s=aad950e914bd72a4d23e903c125d0985&auto=format&fit=crop&w=1000&q=80',
             [
-                new Ingredient('Salmon', 2),
-                new Ingredient('Creme', 2),
+                new Ingredient('Potatoes', 2),
+                new Ingredient('Tuna', 2),
                 new Ingredient('Sauce', 2)
             ]
         )
